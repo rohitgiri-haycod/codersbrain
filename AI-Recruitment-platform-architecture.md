@@ -1630,17 +1630,6 @@ DIRECT CANDIDATE REGISTRATION
 
 **END OF ARCHITECTURE & FLOWCHART GUIDE**
 
-This document provides a comprehensive understanding of the AI-Powered Recruitment Platform architecture, workflows, and data flows. All processes are designed with industry-standard security, data privacy, and user experience in mind.
-
-For technical implementation details, refer to the Technical Specification Document and API Documentation.
-
-**Next Steps:**
-1. Review and approve architecture
-2. Begin Week 1 development (Project Setup)
-3. Set up development environment
-4. Initialize database schema
-5. Create base authentication system
 
 **Contact:**
 - HayCod Solutions: Rohit Giri (rohit.giri@haycod.com, +91 86605 11585)
-- CodersBrain: Sonu Gupta (sk@codersbrain.com, +91 83107 23070)
