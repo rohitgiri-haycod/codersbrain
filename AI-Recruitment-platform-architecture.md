@@ -58,14 +58,6 @@
                          └─────────────────────────┘
 ```
 
-### Key Components:
-- **4 Main User Types**: CodersBrain Admin (3 roles), Vendors, Clients, Candidates
-- **Unified Platform**: Single codebase with role-based access
-- **Data Isolation**: Vendor candidate data strictly controlled
-- **AI Layer**: Optional automation for all processes
-- **Security Layer**: RBAC, encryption, audit logging
-
----
 
 ## 2. Role-Based Dashboard Architecture
 
@@ -189,7 +181,7 @@
 - PAN Card (Mandatory)
 - Business Registration Certificate (Mandatory)
 - Agency Domain Verification (Mandatory)
-- Bank Account Details (Mandatory)
+- Bank Account Details (Optional)
 - Owner ID Proof (Mandatory)
 - Office Address Proof (Optional)
 - Past Client References (Optional)
