@@ -3,24 +3,24 @@
 **Project:** Recruitment Collaboration & Candidate Management Platform  
 **Client:** CodersBrain  
 **Developer:** HayCod Solutions  
-**Date:** 29 October 2025
+**Date:** 7 November 2025
 
 ---
 
 ## Table of Contents
-1. [System Architecture Overview](#system-architecture-overview)
-2. [Role-Based Dashboard Architecture](#role-based-dashboard-architecture)
-3. [Onboarding & KYC Workflow](#onboarding--kyc-workflow)
-4. [Job Description Management Flow](#job-description-management-flow)
-5. [Candidate Profile & Data Privacy Flow](#candidate-profile--data-privacy-flow)
-6. [Recruitment Pipeline Flow](#recruitment-pipeline-flow)
-7. [Commission & Payment Flow](#commission--payment-flow)
-8. [Review & Rating System Flow](#review--rating-system-flow)
-9. [Referral System Flow](#referral-system-flow)
-10. [AI Automation Flow (Optional)](#ai-automation-flow-optional)
-11. [Security & Access Control Architecture](#security--access-control-architecture)
-12. [Technical Architecture](#technical-architecture)
-13. [Data Flow Diagrams](#data-flow-diagrams)
+1. [System Architecture Overview](#1-system-architecture-overview)
+2. [Role-Based Dashboard Architecture](#2-role-based-dashboard-architecture)
+3. [Onboarding & KYC Workflow](#3-onboarding--kyc-workflow)
+4. [Job Description Management Flow](#4-job-description-management-flow)
+5. [Candidate Profile & Data Privacy Flow](#5-candidate-profile--data-privacy-flow)
+6. [Recruitment Pipeline Flow](#6-recruitment-pipeline-flow)
+7. [Commission & Payment Flow](#7-commission--payment-flow)
+8. [Review & Rating System Flow](#8-review--rating-system-flow)
+9. [Referral System Flow](#9-referral-system-flow)
+10. [AI Automation Flow (Optional)](#10-ai-automation-flow-optional)
+11. [Security & Access Control Architecture](#11-security--access-control-architecture)
+12. [Technical Architecture](#12-technical-architecture)
+13. [Data Flow Diagrams](#13-data-flow-diagrams)
 
 ---
 
